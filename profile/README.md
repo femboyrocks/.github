@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/femboyrocks/.github/main/profile/header.svg" alt="femboy.rocks" width="100%">
+<img src="https://raw.githubusercontent.com/femboyrocks/.github/main/profile/assets/meow.svg" alt="femboy.rocks" width="100%">
 
 [![website](https://img.shields.io/badge/website-femboy.rocks-ff8ff9?style=flat&logo=safari&logoColor=white&labelColor=180a15)](https://femboy.rocks)
 
